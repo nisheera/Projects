@@ -16,7 +16,7 @@ body {
 
 /* Style the topnav links */
 .topnav a {
-  float: center;
+  float: right;
   display: block;
   color: #adadad;
   text-align: center;
